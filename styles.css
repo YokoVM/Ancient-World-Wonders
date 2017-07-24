@@ -1,0 +1,32 @@
+h1 p{
+	font-family: Arial, Sans-serif;
+	color: black;
+}
+
+body{
+	background-color: #ccb265;
+	font-family: Arial, Sans-serif;
+}
+
+.master{
+	width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.content{
+	background-color: #d8d7cc;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	height: 100%;
+	max-width: 1000px;
+	display: block;
+	margin: auto;
+}
